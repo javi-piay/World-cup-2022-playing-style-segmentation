@@ -50,14 +50,15 @@ To build a **data-driven framework** capable of profiling team playing styles ba
 
 ## 📈 Results
 
-- **Optimal number of clusters:** k = X  
+- **Optimal number of clusters:** k = 4  
 - Clear differentiation between playing identities such as:
   - High-possession structured teams  
   - Direct transition-oriented teams  
   - Compact defensive teams  
   - High-pressing aggressive teams  
 
-(Insert visualizations here – PCA projection, cluster distribution, etc.)
+<img width="989" height="690" alt="image" src="https://github.com/user-attachments/assets/265b11cd-051a-4342-8287-70af162a9868" />
+
 
 ---
 
@@ -93,6 +94,10 @@ Clusters were analyzed not only statistically but also through a tactical lens, 
 
 ---
 
-## 📎 Author
+## 👤 Author
 
-AI & Data applied to Football Performance  
+Javier Piay  
+Industrial Engineer | Big Data & AI | UEFA C Coach  
+AI applied to Football Performance  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/javier4piay)
